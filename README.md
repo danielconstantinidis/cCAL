@@ -29,7 +29,7 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="YCuATHpEvzs2JCywTv2zHaPQ4CXJd4LjlaelQjuh80g=" name="csrf-token" />
+<meta content="oTFJLhzuecytT1XfqW5xyUpvPECnpOEtV5+P+U2/8mE=" name="csrf-token" />
 
     <link href="https://a248.e.akamai.net/assets.github.com/assets/github-81b13ea53b1680d36f84ba58001e4a489c3f99d2.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://a248.e.akamai.net/assets.github.com/assets/github2-8b9943a538de5ba2343c96854d47c48eb6f2da5d.css" media="all" rel="stylesheet" type="text/css" />
@@ -41,21 +41,21 @@
       
       <meta http-equiv="x-pjax-version" content="541ec61f9d9c0a273af8ee8616e5fc81">
 
-        <link data-pjax-transient rel='permalink' href='/danielconstantinidis/cCAL/blob/9b14c0229b82726d8492ae0abe9595449037e679/README.md'>
+        <link data-pjax-transient rel='permalink' href='/danielconstantinidis/cCAL/blob/8dd185b38f102f08d895bc39a070b71f1f00bbcc/README.md'>
     <meta property="og:title" content="cCAL"/>
     <meta property="og:type" content="githubog:gitrepository"/>
     <meta property="og:url" content="https://github.com/danielconstantinidis/cCAL"/>
     <meta property="og:image" content="https://secure.gravatar.com/avatar/b736588d64cbf15e02232c8a7448965e?s=420&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
     <meta property="og:site_name" content="GitHub"/>
-    <meta property="og:description" content="cCAL - C calcualtor "/>
+    <meta property="og:description" content="Contribute to cCAL development by creating an account on GitHub."/>
     <meta property="twitter:card" content="summary"/>
     <meta property="twitter:site" content="@GitHub">
     <meta property="twitter:title" content="danielconstantinidis/cCAL"/>
 
-    <meta name="description" content="cCAL - C calcualtor " />
+    <meta name="description" content="Contribute to cCAL development by creating an account on GitHub." />
 
 
-    <meta content="4306646" name="octolytics-dimension-user_id" /><meta content="danielconstantinidis" name="octolytics-dimension-user_login" /><meta content="10717715" name="octolytics-dimension-repository_id" /><meta content="danielconstantinidis/cCAL" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="10717715" name="octolytics-dimension-repository_network_root_id" /><meta content="danielconstantinidis/cCAL" name="octolytics-dimension-repository_network_root_nwo" />
+    <meta content="4306646" name="octolytics-dimension-user_id" /><meta content="danielconstantinidis" name="octolytics-dimension-user_login" /><meta content="10724657" name="octolytics-dimension-repository_id" /><meta content="danielconstantinidis/cCAL" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="10724657" name="octolytics-dimension-repository_network_root_id" /><meta content="danielconstantinidis/cCAL" name="octolytics-dimension-repository_network_root_nwo" />
   <link href="https://github.com/danielconstantinidis/cCAL/commits/master.atom" rel="alternate" title="Recent Commits to cCAL:master" type="application/atom+xml" />
 
   </head>
@@ -95,7 +95,7 @@
     
       data-repo="danielconstantinidis/cCAL"
       data-branch="master"
-      data-sha="93b4b23f647e07cdfd71cc67b011b93332268e76"
+      data-sha="93a332b9995276ad7d95e57eaf71e686a661a489"
   >
 
     <input type="hidden" name="nwo" value="danielconstantinidis/cCAL" />
@@ -296,8 +296,8 @@
           
 
 
-<!-- blob contrib key: blob_contributors:v21:750e7fabdd8b614634e3a5bca11d0761 -->
-<!-- blob contrib frag key: views10/v8/blob_contributors:v21:750e7fabdd8b614634e3a5bca11d0761 -->
+<!-- blob contrib key: blob_contributors:v21:bd451a973ec90cbbf570938048479a94 -->
+<!-- blob contrib frag key: views10/v8/blob_contributors:v21:bd451a973ec90cbbf570938048479a94 -->
 
 
 <div id="slider">
@@ -316,9 +316,9 @@
   <div class="commit file-history-tease">
     <img class="main-avatar" height="24" src="https://secure.gravatar.com/avatar/b736588d64cbf15e02232c8a7448965e?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="24" />
     <span class="author"><a href="/danielconstantinidis" rel="author">danielconstantinidis</a></span>
-    <time class="js-relative-date" datetime="2013-06-16T01:56:42-07:00" title="2013-06-16 01:56:42">June 16, 2013</time>
+    <time class="js-relative-date" datetime="2013-06-16T12:28:14-07:00" title="2013-06-16 12:28:14">June 16, 2013</time>
     <div class="commit-title">
-        <a href="/danielconstantinidis/cCAL/commit/2828d6334cfa95281fa21a6bb0a9d3bcb6828fe9" class="message">Create README.md</a>
+        <a href="/danielconstantinidis/cCAL/commit/8dd185b38f102f08d895bc39a070b71f1f00bbcc" class="message">Initial commit</a>
     </div>
 
     <div class="participation">
@@ -340,7 +340,7 @@
     </div><!-- ./.frame-meta -->
 
     <div class="frames">
-      <div class="frame" data-permalink-url="/danielconstantinidis/cCAL/blob/9b14c0229b82726d8492ae0abe9595449037e679/README.md" data-title="cCAL/README.md at master · danielconstantinidis/cCAL · GitHub" data-type="blob">
+      <div class="frame" data-permalink-url="/danielconstantinidis/cCAL/blob/8dd185b38f102f08d895bc39a070b71f1f00bbcc/README.md" data-title="cCAL/README.md at master · danielconstantinidis/cCAL · GitHub" data-type="blob">
 
         <div id="files" class="bubble">
           <div class="file">
@@ -348,8 +348,8 @@
               <div class="info">
                 <span class="icon"><b class="octicon octicon-file-text"></b></span>
                 <span class="mode" title="File Mode">file</span>
-                  <span>5 lines (3 sloc)</span>
-                <span>0.032 kb</span>
+                  <span>3 lines (2 sloc)</span>
+                <span>0.01 kb</span>
               </div>
               <div class="actions">
                 <div class="button-group">
@@ -365,9 +365,7 @@
               
   <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
-<a name="ccal" class="anchor" href="#ccal"><span class="octicon octicon-link"></span></a>cCAL</h1>
-
-<p>cCAL - C calcualtor </p></article>
+<a name="ccal" class="anchor" href="#ccal"><span class="octicon octicon-link"></span></a>cCAL</h1></article>
   </div>
 
           </div>
@@ -447,7 +445,7 @@
       <hr class="footer-divider">
 
 
-    <p class="right">&copy; 2013 <span title="0.04937s from fe4.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
+    <p class="right">&copy; 2013 <span title="0.05549s from fe19.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
     <a class="left" href="/">
       <span class="mega-octicon octicon-mark-github"></span>
     </a>
@@ -493,7 +491,7 @@
     </div>
 
     
-    <span id='server_response_time' data-time='0.04969' data-host='fe4'></span>
+    <span id='server_response_time' data-time='0.05591' data-host='fe19'></span>
     
   </body>
 </html>
