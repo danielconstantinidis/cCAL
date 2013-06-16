@@ -3,7 +3,6 @@ cCAL
 
 Calculator written in C - Daniel Constantinidis
 
-Calculator
 Use -h for help
 
 Instructions
