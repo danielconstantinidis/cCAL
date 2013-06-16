@@ -8,7 +8,8 @@ Use -h for help
 
 Instructions
 ============
-- This program is a command-line based calculator written in C
+
+-This program is a command-line based calculator written in C
 - You can add, subtract, multiply and divide.
 - The program is based on a loop that is designed to read user input for a number and a symbol.
             
